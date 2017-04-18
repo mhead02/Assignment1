@@ -1,0 +1,70 @@
+body{
+	background-color: rgba(157, 189, 225, 1);
+}
+header{
+	text-align: center;
+}
+#MH{
+	text-align: center;
+	font-family: Segoe Print;
+	font-size: 20px;
+}
+hr{
+	margin-right: 450px ;
+	margin-left: 450px;
+	color:solid black;
+}
+h1{
+	text-transform: uppercase;
+	font-family: Broadway;
+}
+nav{
+	text-align: center;
+}
+a{
+	margin:	10px;
+	color: rgba(31, 71, 163, 1);
+}
+#portfoliohead{
+	background-color: rgba(36, 54, 132, 0.6);
+	margin-left: 400px;
+	margin-right: 400px;
+	color: white;
+	border:solid black;
+	margin-top: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+p{
+	margin-right: 300px;
+	margin-left: 150px ;
+	text-align: justify;
+	font-size: 15px;
+	font-family: Yu Gothic UI Semibold;
+}
+.headlines{
+	margin-left: 150px;
+	font-family: Gill Sans MT;
+	font-size: 22px;
+	margin-top: 50px;
+}
+h2{
+	font-size: 17px;
+	font-family: Segoe Print;
+}
+.descriptions{
+	margin-left: 20px;
+	font-size: 14px;
+	font-family: Yu Gothic UI Semibold;
+}
+article{
+	background-color: rgba(46, 43, 41, 0.67);
+	margin-left: 200px;
+	margin-right: 300px;
+	padding: 10px;
+	color: white;
+}
+ul{
+	margin-left: 175px;
+	font-family: Yu Gothic UI Semibold;
+}
